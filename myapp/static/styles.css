@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form {
+    margin-bottom: 15px;
+}
+
+input[type="text"],
+input[type="password"],
+button {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: #c3c4ff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c3c4ff;
+}
+
+a {
+    color: rgb(7, 106, 136);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
